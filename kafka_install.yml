@@ -118,6 +118,3 @@
         enabled: yes
         state: started
 
-guest@ubuntu22:~$ ^C
-guest@ubuntu22:~$ 
-
