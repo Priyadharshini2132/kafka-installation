@@ -1,6 +1,6 @@
 ---
 - name: Install and Run Apache Kafka with Zookeeper on Docker
-  hosts: kafka_vm  # Change this to your actual target VM
+  hosts: kafka_vm  # Change this to your actual target VM's
   become: yes
   tasks:
 
